@@ -1,0 +1,7 @@
+/home/nikls/Lab031/_build/CMakeFiles/print.dir
+/home/nikls/Lab031/_build/CMakeFiles/edit_cache.dir
+/home/nikls/Lab031/_build/CMakeFiles/rebuild_cache.dir
+/home/nikls/Lab031/_build/CMakeFiles/list_install_components.dir
+/home/nikls/Lab031/_build/CMakeFiles/install.dir
+/home/nikls/Lab031/_build/CMakeFiles/install/local.dir
+/home/nikls/Lab031/_build/CMakeFiles/install/strip.dir
